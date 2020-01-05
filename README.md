@@ -1,9 +1,10 @@
 Fancy Treeview
 ===============
 
-Fancy Treeview module for webtrees.
+[![Latest Release](https://img.shields.io/github/release/JustCarmen/fancy_treeview.svg)][1]
+[![webtrees major version](https://img.shields.io/badge/webtrees-v1.x-green)][2]
 
-This module requires [webtrees 1.7.11](https://github.com/fisharebest/webtrees). Download the latest stable release of this module [here](https://github.com/JustCarmen/fancy_treeview/releases/latest).
+Fancy Treeview Module for webtrees. This is a webtrees 1 module. It cannot be used with webtrees 2.
 
 Description
 -----------
@@ -17,17 +18,24 @@ Stylesheets for all the core webtrees themes, the JustBlack and the JustLight th
 
 Fancy Treeview PDF
 ------------------
-Longtime users of Fancy Treeview are used to have the PDF-option inside the module by enabling it at the configuration page. This is changed now. From now on the Fancy Treeview PDF-option is offered as a separate download. Goto https://github.com/JustCarmen/fancy_treeview_pdf for more information.
+To print the Fancy Treeview pages as PDF you can use the Fancy Treeview PDF extension. Click [here][7] for more information.
 
 Translations
 ------------
-You can help to translate this module. Updates to translations should be made at https://translate.webtrees.net/projects/justcarmen/. Changes made there will be pushed to the git repository periodically and will be available on the development version of the module. They will be included in the next release of this module.
+You can help to translate this module. Updates to translations should be made at [the translation server][3]. Changes made there will be pushed to this repository periodically and will be included in the next release of this module.
 
 Installation & upgrading
 ------------------------
-For more information about these subjects go to the JustCarmen help pages: http://www.justcarmen.nl/help
+For more information about these subjects go to the [JustCarmen help pages][4].
 
 Bugs and feature requests
 -------------------------
-If you experience any bugs or have a feature request for this module you can [create a new issue](https://github.com/JustCarmen/fancy_treeview/issues?state=open) or [use the webtrees subforum 'customising'](http://www.webtrees.net/index.php/en/forum/4-customising) to contact me.
+If you experience any bugs or have a feature request for this module you can [create a new issue on GitHub][5] or [use the webtrees subforum 'customising'][6] to contact me.
 
+ [1]: https://github.com/JustCarmen/fancy_treeview/releases/latest
+ [2]: https://webtrees.github.io/download/
+ [3]: https://poeditor.com/join/project/uzdUt7S0Bd
+ [4]: http://www.justcarmen.nl/help-category/modules-help
+ [5]: https://github.com/JustCarmen/fancy_treeview/issues?state=open
+ [6]: http://www.webtrees.net/index.php/en/forum/4-customising
+ [7]: https://github.com/JustCarmen/fancy_treeview_pdf/tree/wt-1.7
